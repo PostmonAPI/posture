@@ -1,14 +1,19 @@
 # postmon-clj
 
+
+[![Dependency Status](https://www.versioneye.com/user/projects/53500ed7fe0d0774a8000825/badge.png)](https://www.versioneye.com/user/projects/53500ed7fe0d0774a8000825)
+
 A Clojure library designed to wrap the Postmon service to find addresses by ZIP code
 
 ## Releases and Dependency Information
 
-Latest stable release is [0.1.1]
+Latest stable release is [0.1.1](https://github.com/PostmonAPI/postmon-clj/tree/v0.1.1)
 
 [Leiningen] dependency information:
 
     [postmon-clj "0.1.1"]
+
+You can find the postmon artifacts at [Clojars](https://clojars.org/postmon-clj)
 
 ## Usage
 
