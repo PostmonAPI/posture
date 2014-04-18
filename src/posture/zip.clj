@@ -1,4 +1,4 @@
-(ns postmon.core
+(ns posture.zip
   (:require [clojure.data.json :as json]
             [clojure.walk :as walk])
   (:import [java.io FileNotFoundException]))

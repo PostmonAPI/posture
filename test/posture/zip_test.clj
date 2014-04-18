@@ -1,6 +1,6 @@
-(ns postmon.core-test
+(ns posture.zip-test
   (:require [clojure.test :refer :all]
-            [postmon.core :refer :all]))
+            [posture.zip :refer :all]))
 
 (deftest mock-test
   (binding [*postmon-url* "test/resources/"]
