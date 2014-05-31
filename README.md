@@ -1,7 +1,7 @@
 # Posture
 
 
-[![Dependency Status](https://www.versioneye.com/user/projects/53500ed7fe0d0774a8000825/badge.png)](https://www.versioneye.com/user/projects/53500ed7fe0d0774a8000825)
+[![Dependency Status](https://www.versioneye.com/user/projects/538a4da514c158772800004c/badge.svg)](https://www.versioneye.com/user/projects/538a4da514c158772800004c)
 
 A Clojure library designed to wrap the Postmon service to find addresses by ZIP code
 
