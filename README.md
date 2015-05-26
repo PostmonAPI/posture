@@ -7,11 +7,11 @@ A Clojure library designed to wrap the Postmon service to find addresses by ZIP 
 
 ## Releases and Dependency Information
 
-Latest stable release is [0.1.2](https://github.com/PostmonAPI/posture/tree/v0.1.2)
+Latest stable release is [0.1.3](https://github.com/PostmonAPI/posture/tree/v0.1.3)
 
 [Leiningen] dependency information:
 
-    [posture "0.1.2"]
+    [posture "0.1.3"]
 
 You can find the Posture artifacts at [Clojars](https://clojars.org/posture)
 
